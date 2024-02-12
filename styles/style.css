@@ -1,0 +1,19 @@
+.background{
+background-color: rgb(241, 241, 241);
+}
+
+.resultBackground{
+    background-color:  rgb(255, 255, 255);
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 8px;
+}
+nav{
+    border-radius: 8px;
+    background: rgba(16, 144, 216, 0.1);
+}
+.custom-btn{
+    border-radius: 8px;
+background: rgb(16, 144, 216);
+color: #fff;
+padding: 20px 40px;
+}
